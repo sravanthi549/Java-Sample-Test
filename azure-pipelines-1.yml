@@ -32,4 +32,4 @@ steps:
     CopyRoot: '/'
     Contents: '\my\share'
     ArtifactName: 'Igservices'
-    ArtifactType: 'FilePath'
+    ArtifactType: 'Server'
